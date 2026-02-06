@@ -1,4 +1,7 @@
+<!-- test change -->
+
 📊 E-Commerce Sales Dashboard (Power BI)
+
 🔹 Project Overview
 
 This project analyzes e-commerce sales data using Power BI.
@@ -13,6 +16,7 @@ Total Orders: 120,254
 Total Quantity Sold: 116,482
 
 🔹 Dashboards & Insights
+
 1️⃣ Category Performance
 
 Set and Kurta categories contribute the highest sales and order volume.
@@ -42,4 +46,8 @@ DAX (Measures)
 Kaggle Dataset
 
 🔹 Dashboard Preview
+## Dashboard Preview
+![Dashboard](./images/ecommerce_dashboard.png)
+
+
 
